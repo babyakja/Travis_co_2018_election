@@ -16,3 +16,7 @@ _Munging_
 ### Demographic data by precinct
 
 _Feature Engineering_
+
+### Polling Data
+
+_Collecting recent polls_
