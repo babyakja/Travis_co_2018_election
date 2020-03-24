@@ -9,7 +9,10 @@ Travis county is one of the fastest growing counties in the nation. Can we accur
 
 ## Data
 
+### Voter Data
 Travis County has voter data and history available on the County Clerks site for all 750,000 registered voters. I download the dataset and attempted to import into a notebook. Using pandas to import the csv but using the `engine='python'` actually was the most effective way of getting into a dataframe.
+
+### Census Tract
 
 _Munging_
 
